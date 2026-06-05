@@ -6,9 +6,9 @@ authors = ["calvarez <calvarez@bachuetech.biz>"]
 description = "Basic HashMap to store any data type in a thread-safe manner with zero dependencies"
 keywords = ["hashmap","any type"]
 categories = ["data-structures", "caching"]
-repository = "https://github.com/bachuetech/"
+repository = "https://github.com/bachuetech/bt_anytype_map.git"
 readme = "README.md"
-homepage = "https://github.com/bachuetech/"
+homepage = "https://github.com/bachuetech/bt_anytype_map"
 license = "GPL-3.0-only"
 
 [dependencies]
