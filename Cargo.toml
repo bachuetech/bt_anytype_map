@@ -1,6 +1,6 @@
 [package]
 name = "bt_anytype_map"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["calvarez <calvarez@bachuetech.biz>"]
 description = "Basic HashMap to store any data type in a thread-safe manner with zero dependencies"

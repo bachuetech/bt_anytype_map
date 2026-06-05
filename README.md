@@ -16,6 +16,8 @@ Basic HashMap to store any data type in a thread-safe manner with zero dependenc
 ## Version History
 * 0.1.0
     * Initial Release
+* 0.1.1
+    * Implement trait Debug
 
 ## License
 GPL-3.0-only
