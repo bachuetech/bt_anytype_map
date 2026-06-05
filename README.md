@@ -1,5 +1,5 @@
 # Project Title
-BT ANY TYPE
+BT ANY TYPE MAP
 
 ## Description
 Basic HashMap to store any data type in a thread-safe manner with zero dependencies
